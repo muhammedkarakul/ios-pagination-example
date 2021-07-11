@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  HomeTableViewController.swift
 //  ios-pagination-example
 //
 //  Created by Muhammed Karakul on 11.07.2021.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class HomeTableViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
